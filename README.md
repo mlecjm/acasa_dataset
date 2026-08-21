@@ -13,4 +13,4 @@ MLA:
 Miju Kang, et al. A-CASA Synthetic Dataset. 0.0.1, Zenodo, 7 July 2026, https://doi.org/10.5281/zenodo.21235611.
 
 IEEE:
-Miju Kang, M. M. Merlecand S.-P. Hong, “A-CASA Synthetic Dataset”. Zenodo, Jul. 07, 2026. doi: 10.5281/zenodo.21235611.
+Miju Kang, M. M. Merlec and S.-P. Hong, “A-CASA Synthetic Dataset”. Zenodo, Jul. 07, 2026. doi: 10.5281/zenodo.21235611.
